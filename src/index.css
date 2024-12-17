@@ -12,3 +12,9 @@ form label{
 p{
   margin: 0 !important;
 }
+
+.form-select{
+  padding: 0 !important;
+  text-align: center;
+  font-size: 25px;
+}
